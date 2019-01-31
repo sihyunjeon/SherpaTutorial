@@ -40,5 +40,5 @@
 }(processes)
 
 (selector){
-  Mass 11 -14 60. 130.
+  Mass 11 -11 60. 130.
 }(selector)
