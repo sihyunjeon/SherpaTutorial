@@ -4,7 +4,7 @@
   FSF:=1.; RSF:=1.; QSF:=1.;
   SCALES METS{FSF*MU_F2}{RSF*MU_R2}{QSF*MU_Q2};
 
-  NJET:=0; LJET=2,3; QCUT:=20.;
+  NJET:=1; LJET=2,3; QCUT:=20.;
 
   ME_SIGNAL_GENERATOR Comix Amegic LOOPGEN;
   EVENT_GENERATION_MODE PartiallyUnweighted;
