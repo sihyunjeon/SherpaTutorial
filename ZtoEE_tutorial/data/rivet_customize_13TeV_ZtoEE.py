@@ -7,4 +7,4 @@ def customise(process):
 	process.rivetAnalyzer.CrossSection = cms.double(1.)
         process.generation_step+=process.rivetAnalyzer
 	process.rivetAnalyzer.UseExternalWeight = cms.bool(True)
-return(process)
+	return(process)
